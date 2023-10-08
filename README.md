@@ -13,7 +13,7 @@ Table of content:
 This project will use Python languague, at the same time, use Backfill methods to clean data. Normalization to scale data. Then use PCA to reduce the data dimensionality and use K-means clustering to analyze.
 
 Credit:
-Nguyễn Hải Ngọc Huyền
+Nguyễn Hải Ngọc Huyền//
 Huỳnh Lưu Vĩnh Phong
 Tạ Hoàng Kim Thy
 Nguyễn Lưu Phương Ngọc Lam
